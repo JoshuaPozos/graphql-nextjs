@@ -2,7 +2,7 @@
 
 ## Setup
 ```
-yarn intall
+yarn install
 ```
 
 Create ur own `MONGODB_URI` into .env file (.env.development or .env.local) and add ur mongodb uri.
